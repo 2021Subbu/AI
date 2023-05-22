@@ -18,7 +18,7 @@ log{
       
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 600px) {
     header, nav, section, footer {
         padding: 10px; /* Reduce padding for smaller screens */
     }
