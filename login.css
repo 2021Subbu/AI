@@ -1,0 +1,77 @@
+body {
+    background-image: url("https://media.istockphoto.com/id/93284284/photo/streetlights-along-a-walkway-in-the-park-at-night.jpg?b=1&s=612x612&w=0&k=20&c=plqTDphV3hXkYeS9qHl2lf4ohSNr1znvukVXDO6-JfE=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333333;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #666666;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  .link-container {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .link-container a {
+    color: #666666;
+    text-decoration: none;
+  }
+  
+  .divider {
+    margin: 0 5px;
+    color: #999999;
+  }
+  
